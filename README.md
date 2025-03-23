@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zhiruo</h1>
-<h3 align="left">Year 3 Computer Science Student studying at National University of Singapore</h3>
+
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=40&duration=1000&pause=1000&color=A186D8&center=true&vCenter=true&width=435&lines=NUS+Year+3+CS+student"></a>
+</p>
 
 <!-- - 🔭 I’m currently working on **to fill in** -->
 
@@ -9,7 +12,10 @@
 
 - ⚡ Fun fact **I'm obsessed with jigsaw puzzles**
 
-<h3 align="left">Connect with me:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=czhiruo&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="czhiruo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=czhiruo&theme=material-palenight&show_icons=true&hide_rank=true&locale=en" alt="czhiruo" /></p>
+
+### 📲 Connect with me:
 <p align="left">
   <a href="mailto:chenzhiruo03@gmail.com" style="text-decoration:none;color:#A47DAB;">
     ✉️ Send me an email!
@@ -20,8 +26,7 @@
   </a>
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools: 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -38,6 +43,8 @@
 <br />
 
 #
+### 🗂️ Highlight Projects
+<a href="https://github.com/czhiruo/peerprep">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=czhiruo&repo=peerprep&show_icons=true&line_height=27&title_color=A186D8&text_color=8a919a&icon_color=A186D8&bg_color=22272e" alt="peerprep" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=czhiruo&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="czhiruo" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=czhiruo&theme=material-palenight&show_icons=true&hide_rank=true&locale=en" alt="czhiruo" /></p>
